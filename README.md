@@ -1,4 +1,4 @@
-# Breast-Cancer-detection
+# Breast-Cancer-Detection
 
 Breast cancer detection using Python, Scikit learn and Machine learning. Logistic regression, 
 Decision tree classifier, Random Forest classifier and Naive bais classification is being 
